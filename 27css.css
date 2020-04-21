@@ -1,0 +1,115 @@
+*{
+	margin: 1px;
+	padding: 1px;
+}
+body{
+	/background: #efefef;
+	background:grey url('w1.JPG') center/cover no-repeat fixed;
+
+}
+.c-header{
+	height: 130px;
+	/background-color: white;
+}
+.c-cont{
+	/max-width: 1000px;
+	max-width: 65%;
+	margin: 0px auto;
+}
+.c-cont1 ul li {
+	padding: 0px 10px;
+	display: inline-block;
+	/text-decoration:none;
+    float: right;
+}
+
+.c-cont1 ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.c-cont1 ul li a:hover{
+	color: blue;
+}
+
+.roundcr{
+	clear: both;
+    border-radius: 20px;
+    float: left;
+}
+
+
+/* 2nd part */
+
+P{
+	margin-bottom: 20px;
+}
+h1,h2,h3,h4,h5{
+	margin-bottom: 5px;
+}
+.c-header2{
+	clear: both;
+	padding-left: : 15px;
+	max-width: 65%;
+	background-color: white;
+	margin: 10px auto;
+	margin-left:60px; 
+	float: left;
+
+}
+img{
+	display: block;
+	max-width: 100%;
+}
+.c-right{
+	float: right;
+}
+
+
+    
+
+ /* 3rd part */
+  .c-footer{
+  	clear: both;
+  	color: white;
+  	/background-color: white;
+  	text-align:right;
+  	height: 30px;
+}
+
+.c-sidebar {
+	float:right;
+	color: red;
+	width: 350px;
+	max-width: 25%;
+	/background-color: white;
+	padding-left: 15px;
+}
+.c-sidebar ul li {
+	clear: both;
+	list-style-type: none;
+}
+.c-sidebar ul li a{
+	clear: both;
+	text-decoration: none;
+	color: grey;
+}
+
+.c-sidebar ul li a:hover{
+	color: blue;
+}
+.special {
+	padding-left: 15px;
+}
+
+
+.a-left{
+	clear: both;
+	float: right;
+}
+
+
+
+
+
+
